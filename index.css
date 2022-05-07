@@ -1,0 +1,21 @@
+@import "compass/css3";
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #5b6c81;
+}
+
+iframe {
+  display: block;
+  width: 760px;
+  height: 600px;
+  border: 1px solid #ccc;
+  
+}
+
+h2,h4{
+  color: white;
+}
